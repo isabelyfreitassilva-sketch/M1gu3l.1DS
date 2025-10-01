@@ -8,3 +8,7 @@
     --titulo: "Bebas Neue", sans-serif;
     --texto: "PT Serif", serif;
 }
+body{
+    background-color: var(--azul-forte);
+    font-family:var(texto);
+}
